@@ -13,6 +13,7 @@
   "samsung/e3qxxx/e3q:17/CP2A.260605.016/S928BXXU6EZIF:user/release-keys"
 #endif
 
+#define MM_STRUCT_SZ 0x400
 #define KIMAGE_TEXT_BASE 0xffffffc008000000ULL
 #define P0_PAGE_OFFSET 0xffffff8000000000ULL
 #define P0_PHYS_OFFSET 0x80000000ULL
